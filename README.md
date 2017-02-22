@@ -8,6 +8,10 @@ Welcome to the MITH 610 GitHub repository for "Reimagining the Archive".
 3. Brooke, Katie, Jasmine, Nora, Jeffrey
 4. Garth, Hazim, Allison, Kimberly
 
+## Viewer
+
+You can [access high resolution images here](http://umd-mith.github.io/sga-lab/TimeIsFlying/). Later on you will also be able to check the rendering of your transcription there.
+
 ## Getting started
 
 A group "leader" should **fork** this repository to her or his GitHub account. Click "fork" on the top-right corner of the screen.
