@@ -49,6 +49,7 @@
         <xi:include href="ox-ms_shelley_adds_c4-0079.xml" />
         <xi:include href="ox-ms_shelley_adds_c4-0080.xml" />
         <xi:include href="ox-ms_shelley_adds_c4-0081.xml" />
+        <xi:include href="ox-ms_shelley_adds_c4-0082.xml" />
         <xi:include href="ox-ms_shelley_adds_c4-0113.xml" />
     </sourceDoc>
 </TEI>
